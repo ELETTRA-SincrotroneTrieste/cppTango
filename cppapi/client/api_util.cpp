@@ -540,7 +540,7 @@ void ApiUtil::get_asynch_replies()
 //
 //-----------------------------------------------------------------------------
 
-void ApiUtil::get_asynch_replies(long call_timeout)
+void ApiUtil::get_asynch_replies(int call_timeout)
 {
 //
 // For all replies already there

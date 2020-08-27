@@ -112,7 +112,7 @@ public:
  *
  * @param [in] timeout The timeout value
  */
-	void get_asynch_replies(long timeout);
+	void get_asynch_replies(int timeout);
 /**
  * Set asynchronous callback sub-model
  *
